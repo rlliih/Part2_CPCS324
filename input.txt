@@ -1,0 +1,9 @@
+digraph 0
+A B 1
+B C 3
+C D 4 
+D E 7
+E F 8
+C E 5
+C F 6
+A C 2
